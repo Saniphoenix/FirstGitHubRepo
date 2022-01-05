@@ -5,7 +5,7 @@ public class Git {
 		
 		public void method(){
 		
-		system.out.println "this is first test"
+		System.out.println("this is first test")
 			
 			}
 
