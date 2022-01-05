@@ -3,7 +3,11 @@ public class Git {
 
 	public static void main(String[] args) {
 		
-		//test
+		public void method(){
+		
+		System.out.println("this is first test")
+			
+			}
 
 	}
 
