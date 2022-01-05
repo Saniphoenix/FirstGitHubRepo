@@ -13,7 +13,7 @@ public class Git {
 	}
 	
 	public void methodB(){
-	// This is second method for practice purpose000
+	// This is second method for practice purpose00
 	
 	}
 
